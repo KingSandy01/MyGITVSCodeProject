@@ -1,2 +1,0 @@
-# MyGITVSCodeProject
-1stTrailToConnectwithVSCode
